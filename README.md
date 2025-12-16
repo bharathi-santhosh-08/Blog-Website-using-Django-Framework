@@ -27,6 +27,13 @@ A dynamic **Blog Web Application** built using the **Django Framework**, **MySQL
 
 ---
 
+## 🏗️ Project Architecture
+
+Follows Django’s MVT (Model–View–Template) architecture.
+Model – Handles database structure
+View – Manages business logic
+Template – Controls UI presentation
+
 
 
 
